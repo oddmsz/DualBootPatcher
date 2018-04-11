@@ -2,9 +2,7 @@
 - name: Ginzzu SMART Race 4G
   id: x2605b_fm45_mtc
   codenames:
-    - 4G
-    - Race
-    - SMART
+    - x2605b
     - x2605b_fm45_mtc
   architecture: arm64-v8a
   block_devs:
